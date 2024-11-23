@@ -40,5 +40,9 @@ Heart disease remains a leading cause of mortality worldwide, accounting for nea
    ```bash
    pip install -r requirements.txt
 ## Acknowledgements
-Dr. Aarif Ahamed S - Project Guide
+Dr. Aarif Ahamed S - Project Guide - 
 Presidency University, Bengaluru
+## References
+1. Ahmed, H., et al. Heart disease identification using machine learning.
+2. Malakouti, S. M. Heart disease classification based on ECG using machine learning models.
+3. Rimal, Y., et al. Ensemble learning and AutoML for heart disease prediction.
